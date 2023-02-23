@@ -1,1 +1,2 @@
 this is a hotel.txt file
+and it is modified.
